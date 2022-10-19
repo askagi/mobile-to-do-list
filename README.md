@@ -1,16 +1,16 @@
 ![](https://i.imgur.com/974mYvy.png)
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/askagi/to-do-list?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/askagi/mobile-to-do-list?color=%2304D361">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/askagi/to-do-list">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/askagi/mobile-to-do-list">
   
   <a href="https://github.com/askagi/to-do-list/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/askagi/to-do-list">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/askagi/mobile-to-do-list">
   </a>
     
    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-   <a href="https://github.com/askagi/to-do-list">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/askagi/to-do-list?style=social">
+   <a href="https://github.com/askagi/mobile-to-do-list">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/askagi/mobile-to-do-list?style=social">
   </a>
 </p>
 
@@ -31,10 +31,10 @@
 O layout da aplicação está disponível no Figma:
 <p>
     <a href="https://www.figma.com/file/icoXh6a891W9dpWeHAHTQP/ToDo-List-(Copy)?node-id=56%3A96">
-  <img alt="Made by codilândia" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
+  <img alt="" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
 </a>
     <a href="https://www.rocketseat.com.br/">
-    <img alt="Feito pela Codilândia" src="https://img.shields.io/badge/feito%20por-Rocketseat-%237519C1">
+    <img alt="Feito pela Rocketseat" src="https://img.shields.io/badge/feito%20por-Rocketseat-%237519C1">
   </a>
 
 </p>
